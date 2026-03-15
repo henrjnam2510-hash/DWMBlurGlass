@@ -3,7 +3,7 @@
 
 给全局系统标题栏添加自定义效果，支持win10和win11
 #
-| [עברית](/README_HE.md) | [סינית](/README_ZH.md) | [אנגלית](/README.md) | [איטלקית](/README_IT.md) | [צרפתית](/README_FR.md) | [טורקית](/README_TR.md) | [ספרדית](/README_ES.md) | [גרמנית](/README_DE.md) | [פורטוגזית ברזילאית](/README_PTBR.md)
+| [עברית](/README_HE.md) | [סינית](/README_ZH.md) | [אנגלית](/README.md) | [איטלקית](/README_IT.md) | [צרפתית](/README_FR.md) | [טורקית](/README_TR.md) | [ספרדית](/README_ES.md) | [גרמנית](/README_DE.md) | [פורטוגזית ברזילאית](/README_PTBR.md) | [טמילית](/README_TA.md) | [וייטנאמי](/README_VI.md)
 
 פרויקט זה משתמש ב[רישיון LGPL v3](/COPYING.LESSER).
 
