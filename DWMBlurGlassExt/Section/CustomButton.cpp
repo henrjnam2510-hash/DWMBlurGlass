@@ -216,8 +216,8 @@ namespace MDWMBlurGlassExt::CustomButton
 
 		borderW = int((float)borderW * scale);
 		const int minbtn_width = int(29.f * scale);
-		const int maxbtn_width = int(27.f * scale);
-		const int closebtn_width = int(49.f * scale);
+		const int maxbtn_width = int(29.f * scale);
+		const int closebtn_width = int(29.f * scale);
 		const int height = int((float)frameY * scale);
 
 		bool closebtn = false;
